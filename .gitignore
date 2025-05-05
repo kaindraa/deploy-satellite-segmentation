@@ -9,19 +9,9 @@ venv/
 # Jupyter Notebooks checkpoints
 .ipynb_checkpoints/
 
-# Images and logs
-*.png
-*.jpg
-*.jpeg
-*.log
-
 # OS metadata
 .DS_Store
 Thumbs.db
 
 # Streamlit config (optional)
 .streamlit/
-
-# Model files
-*.pth
-*.pt
